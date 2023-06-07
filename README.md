@@ -1,4 +1,3 @@
-# Computer_Graphics_Project
 
 # Requirements:
 
