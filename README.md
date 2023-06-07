@@ -46,3 +46,20 @@ modified Midpoint)
 - Clipping algorithms using Square as Clipping Window[Point ,Line]
 
 - Clipping algorithms using circle as a Clipping Window [Point, Line]
+
+
+
+## Screenshots
+
+![Screenshot 2023-06-07 165806](https://github.com/Mahmoudadel17/Computer_Graphics_Project/assets/100792508/93f8ff59-3c4d-49e8-b87a-efb2a573682e)
+
+
+## Authors
+
+- [@Mahmoudadel17](https://www.github.com/Mahmoudadel17)
+
+
+
+
+
+
